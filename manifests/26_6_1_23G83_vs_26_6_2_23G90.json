@@ -1,0 +1,29 @@
+{
+  "device": "iPhone18,1",
+  "from": {
+    "build": "23G83",
+    "input": "iPhone18,1_26.6.1_23G83_Restore.ipsw",
+    "version": "26.6.1"
+  },
+  "id": "ios-26.6.2-23G83-23G90",
+  "major_version": 26,
+  "payload": {
+    "entrypoint": "diffs/26_6_1_23G83_vs_26_6_2_23G90/README.md",
+    "git_tree": "d3cf9acd0e41718cec386fb3760c1a7c9eb5f38d",
+    "logical_bytes": 4051,
+    "path": "diffs/26_6_1_23G83_vs_26_6_2_23G90",
+    "tracked_file_count": 7
+  },
+  "platform": "iOS",
+  "schema_version": 1,
+  "source": {
+    "commit": "882a10d231032c6645f078c6b1c273f3eb873b41",
+    "path": "26_6_1_23G83_vs_26_6_2_23G90",
+    "repository": "https://github.com/ipsw-diffs/ios-26"
+  },
+  "to": {
+    "build": "23G90",
+    "input": "iPhone18,1_26.6.2_23G90_Restore.ipsw",
+    "version": "26.6.2"
+  }
+}
